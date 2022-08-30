@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Run firebase deploy
+firebase deploy
