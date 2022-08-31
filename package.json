@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --port 4173"
+    "preview": "vite preview --port 4173",
+    "fire": "vite build && firebase deploy --only hosting"
   },
   "dependencies": {
     "pinia": "^2.0.17",
