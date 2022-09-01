@@ -15,6 +15,7 @@
 
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
+import Takavar from "./Takavar";
 </script>
 
 <style scoped>
